@@ -1,0 +1,1 @@
+{"description":"The Saturday Ledger v5 — one 1024x1024 image summing up Saturday 21 November 2026 world news. make.fun competition news-image-20261121.","license":"MIT","name":"news-image-20261121-entry-v5","private":true,"scripts":{"render":"python3 generate.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
